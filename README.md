@@ -42,6 +42,7 @@ MAIL_PASS=026942cacc3456
 
 ## Screenshots
 
+<img width="1885" height="919" alt="Screenshot 2026-04-13 001044" src="https://github.com/user-attachments/assets/bdad842d-9381-4250-92a8-1cd31b2ec67b" />
 
 
 ## Author
