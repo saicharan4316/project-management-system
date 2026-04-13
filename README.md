@@ -41,9 +41,20 @@ MAIL_USER=0d8c67a9e4d81b
 MAIL_PASS=026942cacc3456
 
 ## Screenshots
-
+------ MANAGER DASH BOARD ----- 
 <img width="1885" height="919" alt="Screenshot 2026-04-13 001044" src="https://github.com/user-attachments/assets/bdad842d-9381-4250-92a8-1cd31b2ec67b" />
 
+------ ADMIN DASH BOARD ------
+<img width="1888" height="914" alt="Screenshot 2026-04-13 170710" src="https://github.com/user-attachments/assets/4ab9c11f-d339-4f2f-b5b8-35aa57b8bb74" />
+
+------ DEVELOPER DASH BOARD -----
+<img width="1905" height="895" alt="Screenshot 2026-04-13 174344" src="https://github.com/user-attachments/assets/12fa2715-7341-4239-84a3-a070389728db" />
+
+------ FOROT PASSWORD PAGE TO SEND MAIL -----
+<img width="1905" height="895" alt="Screenshot 2026-04-13 174344" src="https://github.com/user-attachments/assets/4b19b04a-1113-4e25-80b7-1832029a599e" />
+
+------ ACTIVITY DASH BOARD -------
+<img width="1911" height="912" alt="Screenshot 2026-04-13 174628" src="https://github.com/user-attachments/assets/07b4cb77-629b-42b8-b6db-fbefd200fab5" />
 
 ## Author
 
