@@ -24,7 +24,7 @@ A full-stack project management system with role-based access control.
 
 cd backend  
 npm install  
-npm run dev  
+nodemon server.js / node server.js  
 
 ### Frontend
 
