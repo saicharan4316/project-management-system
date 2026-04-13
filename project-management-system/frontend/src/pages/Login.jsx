@@ -15,10 +15,10 @@ export default function Login() {
 
       window.location.href = `/${res.data.role.toLowerCase()}`;
     } catch (err) {
-      alert(err.response?.data?.msg || "Login failed");
+      alert(err || "Login failed");
     }
   };
-
+// .response?.data?.msg
   return (
     <div className="center">
       <div className="card">
