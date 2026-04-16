@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api" || " https://project-management-system-fpxs.onrender.com/api"
+  baseURL: " https://project-management-system-fpxs.onrender.com/api" ||  "http://localhost:5000/api"
 });
 
 api.interceptors.request.use((config) => {
